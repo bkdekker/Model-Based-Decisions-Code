@@ -1,0 +1,7 @@
+Seed_Fraction
+Strategy
+Repetition
+B
+Final_Adoption_Fraction
+Time_to_50%_Adoption
+history
