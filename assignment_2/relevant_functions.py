@@ -4,7 +4,9 @@ import networkx as nx
 import matplotlib.pyplot as plt
 import random
 from time import time
-
+Random_seed = 42
+random.seed(Random_seed)
+np.random.seed(Random_seed)
 #from assignment_2.Granovetter_experiment_results import betweenness_seeds, build_networks, draw_thresholds, final_adoption_fraction, greedy_celf, high_degree_seeds, kcore_seeds, random_seeds, threshold_dynamics, time_to_fraction
 
 RANDOM_SEED = 42
